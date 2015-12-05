@@ -1,0 +1,24 @@
+/*
+ * THIS IS A GIANT HEADER
+ * 
+ * this file is only a test of hte program
+ *
+ */
+#include <stdio.h>
+
+char c;
+int state;
+
+int main()
+{
+	char c, d;
+	
+	/* the main program loop. Do everything here ↓ */
+	while (1) {
+	test();
+		if (a - b == 2 && a <= b)
+				printf("seco");
+	}	
+	/* IF YOU ARE SEEING THIS, THE PROGRAM DON'T WORK */
+	return 0; /* asiodjasoidjsaoijdas */
+}
